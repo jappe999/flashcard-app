@@ -1,0 +1,23 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "Flashcard app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jappe999/flashcard-app.git"
+  },
+  "author": "Jasper van der Linden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jappe999/flashcard-app/issues"
+  },
+  "homepage": "https://github.com/jappe999/flashcard-app#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
